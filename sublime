@@ -1,0 +1,10 @@
+{
+    "git.ignoreLegacyWarning": true,
+    "workbench.editor.enablePreview": false,
+    "editor.tabSize": 2,
+    "ruby.rubocop.executePath": "/Users/ilkayorhanlar/.rvm/gems/ruby-2.5.1/bin/",
+    "editor.fontFamily": "Monaco",
+    "editor.fontSize": 10,
+    "editor.lineHeight": 14,
+    "workbench.colorTheme": "Monokai"
+}
