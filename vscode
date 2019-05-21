@@ -1,10 +1,19 @@
 {
-    "git.ignoreLegacyWarning": true,
     "workbench.editor.enablePreview": false,
+    "sync.gist": "5670d985e9408b422f35a8a42d604fd9",
+    "editor.renderWhitespace": "all",
+    // The number of spaces a tab is equal to. This setting is overridden
+    // based on the file contents when `editor.detectIndentation` is true.
     "editor.tabSize": 2,
-    "ruby.rubocop.executePath": "/Users/ilkayorhanlar/.rvm/gems/ruby-2.5.1/bin/",
-    "editor.fontFamily": "Monaco",
-    "editor.fontSize": 10,
-    "editor.lineHeight": 14,
-    "workbench.colorTheme": "Monokai"
+
+    // Insert spaces when pressing Tab. This setting is overriden
+    // based on the file contents when `editor.detectIndentation` is true.
+    "editor.insertSpaces": true,
+
+    // When opening a file, `editor.tabSize` and `editor.insertSpaces`
+    // will be detected based on the file contents. Set to false to keep
+    // the values you've explicitly set, above.
+    "editor.detectIndentation": false,
+    "editor.fontSize": 16,
+    "editor.fontFamily": "Andale Mono"
 }
